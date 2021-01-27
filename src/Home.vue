@@ -8,6 +8,7 @@
     </div>
     <div class="row">
     <div class="col-12">
+        <vue-toastr ref="toastr"></vue-toastr>
     <router-view class="container"></router-view>
     </div>
     </div>
